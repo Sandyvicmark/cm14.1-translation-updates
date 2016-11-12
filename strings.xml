@@ -20,7 +20,7 @@
 
     <!-- Generic stuff used everywhere -->
     <string name="loading">加载中\u2026</string>
-    <string name="dlg_ok">OK</string>
+    <string name="dlg_ok">确定</string>
     <string name="cancel">关闭</string>
     <string name="add">添加</string>
     <string name="choose_app">选择应用</string>
@@ -44,6 +44,7 @@
     <string name="privacy_settings_category" translatable="false">CyanogenMod</string>
 
     <!-- Privacy Guard -->
+    <string name="privacy_guard_title">隐私保护</string>
     <string name="privacy_guard_switch_label">开启隐私保护</string>
     <string name="privacy_guard_dlg_title">是否开启隐私保护？</string>
     <string name="privacy_guard_dlg_text">当隐私保护启用时，应用将不会获取像联系人、短信或通话记录等的个人信息。</string>
@@ -483,7 +484,7 @@
 
     <!-- Anonymous Statistics #CM -->
     <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-    <string name="anonymous_statistics_title">CyanogenMod统计数据</string>
+    <string name="anonymous_statistics_title">CyanogenMod 统计数据</string>
     <string name="anonymous_statistics_summary">发送匿名数据报告来帮助CyanogenMod做得更好</string>
     <string name="anonymous_statistics_warning_title">关于</string>
     <string name="anonymous_statistics_warning">Opting into CyanogenMod Statistics will allow non-personal data to be submitted to the
