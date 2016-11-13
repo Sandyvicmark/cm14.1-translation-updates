@@ -58,7 +58,7 @@
     <string name="privacy_guard_reset_title">重置</string>
     <string name="privacy_guard_reset_text">确定重置？</string>
     <string name="privacy_guard_help_text">在这个页面上你只需轻触它来选择隐私保护应保护哪些应用。选中的应用将不会获取像联系人、短信或通话记录等的个人信息。长按一个应用可以进入应用详情页面。\n\n预装软件默认不显示，但你可以选中相应的菜单选项来显示它们。</string>
-    <string name="privacy_guard_manager_show_system_apps">显示预装软件</string>
+    <string name="privacy_guard_manager_show_system_apps">显示系统软件</string>
     <string name="privacy_guard_advanced_settings_title">高级</string>
     <string name="privacy_guard_notification_title">显示通知</string>
 
@@ -209,9 +209,9 @@
     <string name="keyboard_backlight_seekbar_title">Keyboard brightness</string>
     <string name="backlight_timeout_title">点亮时间</string>
     <string name="backlight_timeout_unlimited">不熄灭</string>
-    <string name="backlight_summary_disabled">Disabled</string>
-    <string name="backlight_summary_enabled_with_timeout">Enabled for <xliff:g id="timeout">%s</xliff:g></string>
-    <string name="backlight_summary_enabled">Enabled</string>
+    <string name="backlight_summary_disabled">关闭</string>
+    <string name="backlight_summary_enabled_with_timeout">开启 <xliff:g id="timeout">%s</xliff:g></string>
+    <string name="backlight_summary_enabled">开启</string>
 
     <!-- Buttons - Enable navbar -->
     <string name="disable_navkeys_title">开启屏幕导航栏</string>
@@ -236,9 +236,9 @@
     <string name="power_menu_users_title">用户切换</string>
     <string name="power_menu_settings_title">设置</string>
     <string name="power_menu_lockdown_title">Device lockdown</string>
-    <string name="power_menu_bug_report_title">BUG报告</string>
+    <string name="power_menu_bug_report_title">错误报告</string>
     <string name="power_menu_sound_title">音量面板</string>
-    <string name="power_menu_bug_report_disabled">BUG报告在开发者模式中被禁用</string>
+    <string name="power_menu_bug_report_disabled">错误报告在开发者模式中被禁用</string>
 
     <string name="volume_keys_control_ring_stream_title">控制来电铃声音量</string>
     <string name="volume_keys_control_ring_stream_summary_on">音量键控制来电音量</string>
@@ -485,7 +485,7 @@
     <!-- Anonymous Statistics #CM -->
     <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
     <string name="anonymous_statistics_title">CyanogenMod 统计数据</string>
-    <string name="anonymous_statistics_summary">发送匿名数据报告来帮助CyanogenMod做得更好</string>
+    <string name="anonymous_statistics_summary">发送匿名数据报告来帮助 CyanogenMod 做得更好</string>
     <string name="anonymous_statistics_warning_title">关于</string>
     <string name="anonymous_statistics_warning">Opting into CyanogenMod Statistics will allow non-personal data to be submitted to the
         developers of CyanogenMod to track unique installations across devices. The information submitted includes an unique identifier,
