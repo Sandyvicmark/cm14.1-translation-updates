@@ -62,8 +62,8 @@
     <string name="privacy_guard_advanced_settings_title">高级</string>
     <string name="privacy_guard_notification_title">显示通知</string>
     <!-- Lockscreen Torch -->
-    <string name="keyguard_torch_title">长按电源键可以打开手电筒哦</string>
-    <string name="keyguard_torch_summary">当你锁平的时候长按电源键就可以打开手电筒啦</string>
+    <string name="keyguard_torch_title">长按电源键可以打开手电筒</string>
+    <string name="keyguard_torch_summary">当你锁屏的时候长按电源键就可以打开手电筒</string>
     <!-- Notification light dialogs -->
     <string name="edit_light_settings">编辑灯光</string>
     <string name="pulse_speed_title">呼吸长度和速率</string>
@@ -113,8 +113,8 @@
     <string name="notification_light_automagic_summary">自动选择灯光颜色</string>
 
     <!-- Lights settings, LED notification -->
-    <string name="led_notification_title">Light settings</string>
-    <string name="led_notification_text">LED light enabled by settings</string>
+    <string name="led_notification_title">灯光设置</string>
+    <string name="led_notification_text">呼吸灯已打开</string>
     <string name="notification_light_no_apps_summary">要添加单个应用控制，打开 使用自定义设置 并点击菜单栏中的加号</string>
 
     <!-- LiveDisplay -->
@@ -222,7 +222,7 @@
     <!-- Navigation Bar -->
     <string name="navigation_bar_category">导航栏</string>
     <string name="navigation_bar_title">按钮及排布</string>
-    <string name="navigation_bar_left_title">左撇子模式，哈哈</string>
+    <string name="navigation_bar_left_title">左撇子模式</string>
     <string name="navigation_bar_left_summary">当启用横屏模式时将导航栏放置在屏幕左侧</string>
     <string name="navigation_bar_arrow_keys_title">打字时显示方向按钮</string>
     <string name="navigation_bar_arrow_keys_summary">打字时显示左右光标键并替换输入法切换键</string>
@@ -471,8 +471,8 @@
 
     <!-- Contributors cloud activity -->
     <string name="contributors_cloud_fragment_title">大佬们</string>
-    <string name="contributors_cloud_loading_message">正在加载大佬的数据\u2026</string>
-    <string name="contributors_cloud_failed_message">无法加载大佬的数据</string>
+    <string name="contributors_cloud_loading_message">正在加载大佬们的数据\u2026</string>
+    <string name="contributors_cloud_failed_message">无法加载大佬们的数据</string>
     <string name="contributor_info_menu">大佬们的信息</string>
     <string name="contributor_info_msg">
         <![CDATA[<b>Name:</b> <xliff:g id="name">%1$s</xliff:g><br/><br/>
